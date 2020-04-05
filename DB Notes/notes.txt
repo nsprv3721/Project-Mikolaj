@@ -1,0 +1,11 @@
+Created this just to track and maintain the database.
+
+It's name is:
+  postgres_mikolaj
+
+~/usr/local/var/postgres
+
+~/usr/local/var/postgres/tmp/postgres_mikolaj
+;
+
+select * from tmp; is a created table
